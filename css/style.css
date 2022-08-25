@@ -36,3 +36,30 @@
     background-color: white;
     color: black;
 }
+
+
+.github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+
+    background-color: #ccc;
+    padding: 10px;
+    
+    font-family: "Roboto Mono", monospace;
+  font-size: 1.2rem;
+  font-weight: 700;
+    color: gray;
+
+}
+
+.github p, img{
+    padding: 2px 15px;
+}
+
+
